@@ -7,37 +7,38 @@
     <div class="row">
         <div class="col-md-4 mb-5">
             <div class="card h-100">
-                <img class="card-img-top" src="https://placehold.it/300x200" alt="">
+                <img class="card-img-top" src="Images/faculty.jpg" alt="">
                     <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus.</p>
+                        <h4 class="card-title">Meet Our Current Faculty</h4>
+                        <p class="card-text">Our faculty is trained and specialized to prepare your orders
+                            according to the needs of your special companion. We have several locations across the country.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="#" class="btn btn-primary">Find Out More!</a>
+                        <a href="#" class="btn btn-primary">Click here to learn more!</a>
                     </div>
             </div>
         </div>
             <div class="col-md-4 mb-5">
                 <div class="card h-100">
-                    <img class="card-img-top" src="https://placehold.it/300x200" alt="">
+                    <img class="card-img-top" src="Images/hiring.jpg" alt="">
                 <div class="card-body">
-                    <h4 class="card-title">Card title</h4>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus totam ut praesentium aut.</p>
+                    <h4 class="card-title">We're Hiring!</h4>
+                    <p class="card-text"> We have available spots for you, both if you're willing to aid in delivery, or yo uhave experience in medicine!</p>
                   </div>
                   <div class="card-footer">
-                    <a href="#" class="btn btn-primary">Find Out More!</a>
+                    <a href="#" class="btn btn-primary">Click here to learn more!</a>
                   </div>
                 </div>
               </div>
               <div class="col-md-4 mb-5">
                 <div class="card h-100">
-                  <img class="card-img-top" src="https://placehold.it/300x200" alt="">
+                  <img class="card-img-top" src="Images/voluntary.jpg" alt="">
                   <div class="card-body">
-                    <h4 class="card-title">Card title</h4>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+                    <h4 class="card-title">Volunteer Work</h4>
+                    <p class="card-text">We're always glad for any help others can provide in our mission to provide safe and easily affordable medication to pet owners</p>
                   </div>
                   <div class="card-footer">
-                    <a href="#" class="btn btn-primary">Find Out More!</a>
+                    <a href="#" class="btn btn-primary">Click here to learn more!</a>
                   </div>
                 </div>
               </div>
