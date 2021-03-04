@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-
+    <link rel="icon" href="Images/pills.jpg">
     <link href="StyleSheet1.css" rel="stylesheet" />
     <title>Master Page Tech HW</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
@@ -26,17 +26,14 @@
               </button>
               <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
-                  <li class="nav-item active">
+                  <li class="nav-item">
                     <a class="nav-link" href="Default.aspx">Home</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="Page2.aspx">Our Faculty</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="Page3.aspx">Order Medication</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="Page4.aspx">Sign Up</a>
+                    <a class="nav-link" href="Page3.aspx">Our Medications</a>
                   </li>
                 </ul>
               </div>

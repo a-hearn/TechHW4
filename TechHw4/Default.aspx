@@ -3,6 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <!-- Page Content -->
+    <br /><br />
     <div class="container" id="contact">
         <div class="row">
             <div class="col-md-8 mb-5">
@@ -22,10 +23,10 @@
                   <br>
                 </address>
                 <address>
-                  <abbr title="Phone">P:</abbr>
+                  <abbr title="Phone">Phone:</abbr>
                   (278) 675-309
                   <br>
-                  <abbr title="Email">E:</abbr>
+                  <abbr title="Email">Email:</abbr>
                   <a href="mailto:#">name@example.com</a>
                 </address>
             </div>

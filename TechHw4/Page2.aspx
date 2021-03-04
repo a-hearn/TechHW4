@@ -2,6 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <br /><br />
 
     <div class="row">
         <div class="col-md-4 mb-5">
@@ -13,7 +14,7 @@
                             according to the needs of your special companion. We have several locations across the country.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="#" class="btn btn-primary">Click here to learn more!</a>
+                        <a href="#" class="btn btn-info">Click here to learn more!</a>
                     </div>
             </div>
         </div>
@@ -25,7 +26,7 @@
                     <p class="card-text"> We have available spots for you, both if you're willing to aid in delivery, or yo uhave experience in medicine!</p>
                   </div>
                   <div class="card-footer">
-                    <a href="#" class="btn btn-primary">Click here to learn more!</a>
+                    <a href="#" class="btn btn-info">Click here to learn more!</a>
                   </div>
                 </div>
               </div>
@@ -37,7 +38,7 @@
                     <p class="card-text">We're always glad for any help others can provide in our mission to provide safe and easily affordable medication to pet owners</p>
                   </div>
                   <div class="card-footer">
-                    <a href="#" class="btn btn-primary">Click here to learn more!</a>
+                    <a href="#" class="btn btn-info">Click here to learn more!</a>
                   </div>
                 </div>
               </div>

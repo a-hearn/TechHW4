@@ -73,6 +73,7 @@
     <Content Include="Images\med1.jpg" />
     <Content Include="Images\med2.jpg" />
     <Content Include="Images\med3.jpg" />
+    <Content Include="Images\pills.jpg" />
     <Content Include="Images\voluntary.jpg" />
     <Content Include="Page2.aspx" />
     <Content Include="Page3.aspx" />
