@@ -8,8 +8,10 @@
             <div class="col-md-8 mb-5">
                 <h2>What We Do</h2>
                 <hr>
-                <p> Here at PedMed Stop, we pride ourselves on service and compassion to all types of animals. Whether they be scaled, furry, or feathered, our trained and specialized faculty are on hand to provide aid to your companions in life, </p>
-                <a class="btn btn-primary btn-lg" href="#">Call to Action &raquo;</a>
+                <p> Here at <i>The PedMed Stop</i>, we pride ourselves on service and compassion to all types of animals. Whether they 
+                    be scaled, furry, or feathered, our trained and specialized faculty are on hand to provide medication for your 
+                    companions in life in an easy and affordable manner! </p>
+                <a class="btn btn-info btn-lg" href="#">More Info On Our History & Mission &raquo;</a>
             </div>
             <div class="col-md-4 mb-5" >
                 <h2 >Contact Us</h2>
@@ -30,11 +32,10 @@
         </div>
             <!-- /.row -->
     </div>
-
-    <!-- Footer -->
+            <!-- Footer -->
     <footer class="py-5 bg-dark">
         <div class="container">
-            <p class="m-0 text-center text-white">Copyright &copy; PetMed Stop 2021</p>
+            <p class="m-0 text-center text-white">Copyright &copy; The PetMed Stop 2021</p>
         </div>
             <!-- /.container -->
     </footer>

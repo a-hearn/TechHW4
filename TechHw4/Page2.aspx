@@ -43,11 +43,12 @@
               </div>
             </div>
             <!-- /.row -->
-<!-- Footer -->
+            <!-- Footer -->
     <footer class="py-5 bg-dark">
         <div class="container">
-            <p class="m-0 text-center text-white">Copyright &copy; PetMed Stop 2021</p>
+            <p class="m-0 text-center text-white">Copyright &copy; The PetMed Stop 2021</p>
         </div>
             <!-- /.container -->
     </footer>
+
 </asp:Content>
