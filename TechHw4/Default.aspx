@@ -4,40 +4,28 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <!-- Page Content -->
     <br /><br />
-    <div class="container" id="contact">
-        <div class="row">
-            <div class="col-md-8 mb-5">
-                <h2>What We Do</h2>
-                <hr>
-                <p> Here at <i>The PedMed Stop</i>, we pride ourselves on service and compassion to all types of animals. Whether they 
-                    be scaled, furry, or feathered, our trained and specialized faculty are on hand to provide medication for your 
-                    companions in life in an easy and affordable manner! </p>
-                <a class="btn btn-info btn-lg" href="#">More Info On Our History & Mission &raquo;</a>
-            </div>
-            <div class="col-md-4 mb-5" >
-                <h2 >Contact Us</h2>
-                <hr>
-                <address>
-                  <br>8293 Wallaby Place
-                  <br>Toledo, OH 43607
-                  <br>
-                </address>
-                <address>
-                  <abbr title="Phone">Phone:</abbr>
-                  (278) 675-309
-                  <br>
-                  <abbr title="Email">Email:</abbr>
-                  <a href="mailto:#">name@example.com</a>
-                </address>
+    <section>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-lg-2">
+                    <div class="p-5">
+                        <img class="img-fluid rounded-circle" id="imgHome" src="Images/doc.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 order-lg-1">
+                    <div class="p-5">
+                        <h2 class="display-4">Welcome to PetMed!</h2>
+                        <br />
+                        <p>Your all-in one location for pet medications from all brands at an affordable, easy price, delivered straight to your home!</p>
+                    </div>
+                </div>
             </div>
         </div>
-            <!-- /.row -->
-    </div>
-            <!-- Footer -->
+    </section>
+
     <footer class="py-5 bg-dark">
         <div class="container">
             <p class="m-0 text-center text-white">Copyright &copy; The PetMed Stop 2021</p>
         </div>
-            <!-- /.container -->
     </footer>
 </asp:Content>
